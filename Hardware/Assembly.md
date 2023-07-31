@@ -1,7 +1,9 @@
-- Connect all modules together
-- Connect D5 of ESP8266 to Clk on the most right Max7219 module 
-- Connect D6 of ESP8266 to Data on the most right Max7219 module 
-- Connect D7 of ESP8266 to CSon the most right Max7219 module
+- Chain all modules together (VCC to VCC, GND to GND, DOUT to DIN, CS to CS, CLK to CLK)
+- Connect D5 of ESP8266 to CLK on the most right Max7219 module 
+- Connect D6 of ESP8266 to DIN on the most right Max7219 module 
+- Connect D7 of ESP8266 to CS on the most right Max7219 module
+- Connect 5V of ESP8266 to VCC on the most right Max7219 module
+- Connect GND of ESP8266 to GND on the most right Max7219 module
 - Load software on the ESP8266
 - Connect to power source
 - The ESP8266 will initially start up as an Access Point with the name "Lichtkrant"

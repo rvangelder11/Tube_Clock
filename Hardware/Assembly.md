@@ -15,5 +15,10 @@
 - Fill in Wifi name and password.
 - After success, the clock starts
 - The ESP8266 can be mounted on the back of the right MAX7219 module with double sided tape
+  
+![IMG_0095](https://github.com/rvangelder11/Tube_Clock/assets/90907092/6b8e8c1f-4a8e-44a3-bbfe-8ae082281e5b)
+
 - The whole assembly can be shifted in the perspex tube
 - Optionally close the tube on both sides with a 3D printed bracket (dop voor perspex buis v5.stl and dop voor perspex buis_Component1(Mirror) v1.stl)
+  
+![IMG_0094](https://github.com/rvangelder11/Tube_Clock/assets/90907092/88062fd6-aa1b-408b-a977-7fcb457d2de9)

@@ -1,1 +1,4 @@
-
+- 54 cm of perspex tube, outside diameter 41 mm, inside 36 mm. (I could only buy minimum length of 2m)
+- 4x Max7219 Dot-Matrixmodule for Microcontroller 4 In one Display (AliExpress)
+- 1x ESP8266 Wemos D1
+- Optional: 2x brackets 3D printed to cover the sides

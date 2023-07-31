@@ -16,4 +16,4 @@
 - After success, the clock starts
 - The ESP8266 can be mounted on the back of the right MAX7219 module with double sided tape
 - The whole assembly can be shifted in the perspex tube
-- Optionally close the tube on both sides with a 3D printed bracket 
+- Optionally close the tube on both sides with a 3D printed bracket (dop voor perspex buis v5.stl and dop voor perspex buis_Component1(Mirror) v1.stl)

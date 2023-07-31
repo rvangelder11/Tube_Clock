@@ -6,7 +6,8 @@
 - Connect to power source
 - The ESP8266 will initially start up as an Access Point with the name "Lichtkrant"
 - Connect to that Access point (without a password)
-- Browse to 192.168.1.4
+- Browse to 192.168.4.1
+  
 - Fill in Wifi name and password.
 - After success, the clock starts
 - The ESP8266 can be mounted on the back of the right MAX7219 module with double sided tape

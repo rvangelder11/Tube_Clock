@@ -7,7 +7,6 @@
 - The ESP8266 will initially start up as an Access Point with the name "Lichtkrant"
 - Connect to that Access point (without a password)
 - Browse to 192.168.4.1
-- 
  ![Wifimanager](https://github.com/rvangelder11/Tube_Clock/assets/90907092/e015b7f6-2212-4e08-b1be-d5a43b859e64)
 
 - Fill in Wifi name and password.

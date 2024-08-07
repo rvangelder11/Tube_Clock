@@ -46,7 +46,7 @@ Timezone myTZ;
 WiFiClient espLichtkrant;
 PubSubClient client(espLichtkrant);
 
-uint8_t SmallSpace[] = { 1, 0 }; // Space of one column, to make the text fit on the display
+uint8_t SmallSpace[] = { 1, 0 }; // Reduced the space to one column, to make the text fit on the display
 
 void setup() {
   unsigned long startmillis;

@@ -5,7 +5,7 @@ void callback(char* topic, byte* message, unsigned int length) {
   for (int i = 0; i < length; i++) {
     messageTemp[i] = (char)message[i];
   }
-  messageTemp[length] = '\0'; // maak het een nul terminated string door een 0 op de laatste positie
+  messageTemp[length] = '\0'; // make it a null terminated string
   utf8AsciiString(messageTemp);
   Serial.println(messageTemp);
   P.displayClear();

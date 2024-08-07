@@ -40,7 +40,7 @@ char* HostName = "Lichtkrant";
 boolean WifiConnected = false;
 
 // MQTT Broker IP address
-const char* mqtt_server = "192.168.2.7";
+const char* mqtt_server = "FILL IN THE IP OF YOUR MQTT SERVER";
 Timezone myTZ;
 
 WiFiClient espLichtkrant;
